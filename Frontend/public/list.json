@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":2,
+        "name":"A-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":20,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":3,
+        "name":"B-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":30,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":4,
+        "name":"C-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    {
+        "id":5,
+        "name":"D-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":6,
+        "name":"E-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":7,
+        "name":"F-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":8,
+        "name":"G-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":9,
+        "name":"H-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    },
+    
+    {
+        "id":10,
+        "name":"I-book",
+        "title":"To provide an easy-to-use interface for browsing",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/gradient-world-book-day-horizontal-banner_23-2149300589.jpg?t=st=1735570213~exp=1735573813~hmac=c40c9735d9624646cad6fed1b74acfed8b8723d2a642f98a96987e99710d5b82&w=900"
+    }
+]
